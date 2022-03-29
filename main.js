@@ -1,3 +1,3 @@
-console.log('init!');
+console.log('init func 1!');
 
-export default main = (msg) => `hello ${msg}!`;
+export default foo = () => console.log('TODO: make call to func2');

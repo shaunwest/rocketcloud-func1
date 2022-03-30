@@ -1,3 +1,5 @@
 console.log('init func 1!');
 
-export default foo = () => console.log('TODO: make call to func2');
+export const health = () => 'ok';
+
+export const foo = () => 'TODO: make call to func2';
